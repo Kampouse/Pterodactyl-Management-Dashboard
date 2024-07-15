@@ -1,6 +1,6 @@
 import { component$ } from "@builder.io/qwik";
 import Session from "../auth/session/session";
-import Icon from '../../media/icon.png?jsx';
+import Icon from '/public/assets/icon.png?jsx';
 import headerstyles from "./header.module.css";
 import { useLocation } from "@builder.io/qwik-city";
 import config from '../../data/config.json';
